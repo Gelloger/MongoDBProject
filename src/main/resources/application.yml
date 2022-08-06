@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://gehwan96:gehwangehwan@atlascluster.ourzhlb.mongodb.net/test
+      database: project
